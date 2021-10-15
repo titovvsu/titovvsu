@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @titovvsu
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me: titov.amm.vsu@gmail.com
